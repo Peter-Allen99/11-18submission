@@ -1,0 +1,11 @@
+McDonald's
+152 Magnolia Street
+(414)-933-2824
+mcdonalds@mcdonalds.com
+0900-1700
+American
+Fast Food
+$1-$5
+Burgers,Fries,Milkshakes
+$3.00,$1.50,$2.00
+3;8.0
